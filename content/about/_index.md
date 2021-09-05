@@ -19,7 +19,7 @@ socials:
     google_scholar: "YOUR_NAME"
 
 interests:
-    - Surfing
+    - Swimming
     - Distributed Systems
     - Data Streaming Platforms
     - Large-Scale Data Processing Platforms
