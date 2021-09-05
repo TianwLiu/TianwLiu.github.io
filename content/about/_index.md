@@ -12,7 +12,7 @@ blog: true
 
 socials:
     twitter: "YOUR_NAME"
-    github: "YOUR_NAME"
+    github: "TianwLiu"
     facebook: "YOUR_NAME"
     linkedin: "YOUR_NAME"
     twitch: "YOUR_NAME"
