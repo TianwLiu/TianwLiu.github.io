@@ -34,7 +34,7 @@ affiliations:
         name: "The Coolest Startup In the World"
         email: "email@mycoolstartup.ai"
 
-academia
+academia:
     - course:
         degree: "Ph.D."
         institution:  "Stanford University"
