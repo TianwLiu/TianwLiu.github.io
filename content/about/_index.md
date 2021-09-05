@@ -14,7 +14,7 @@ socials:
     twitter: "YOUR_NAME"
     github: "TianwLiu"
     facebook: "Eric Liu"
-    linkedin: "YOUR_NAME"
+    linkedin: "Eric Liu"
     twitch: "YOUR_NAME"
     google_scholar: "YOUR_NAME"
 
