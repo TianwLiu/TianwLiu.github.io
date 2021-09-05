@@ -13,7 +13,7 @@ blog: true
 socials:
     twitter: "YOUR_NAME"
     github: "TianwLiu"
-    facebook: "YOUR_NAME"
+    facebook: "Eric Liu"
     linkedin: "YOUR_NAME"
     twitch: "YOUR_NAME"
     google_scholar: "YOUR_NAME"
