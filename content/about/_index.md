@@ -11,7 +11,7 @@ cv: "cv.pdf"
 blog: true
 
 socials:
-    twitter: "YOUR_NAME"
+    twitter: "TianweiLiu"
     github: "TianwLiu"
     facebook: "Eric Liu"
     linkedin: "TianwLiu"
