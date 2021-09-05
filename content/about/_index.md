@@ -19,7 +19,7 @@ socials:
     google_scholar: "YOUR_NAME"
 
 interests:
-    - Data Intensive Systems
+    - Surfing
     - Distributed Systems
     - Data Streaming Platforms
     - Large-Scale Data Processing Platforms
@@ -34,7 +34,7 @@ affiliations:
         name: "The Coolest Startup In the World"
         email: "email@mycoolstartup.ai"
 
-academia:
+academia
     - course:
         degree: "Ph.D."
         institution:  "Stanford University"
