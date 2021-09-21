@@ -20,10 +20,8 @@ socials:
 
 interests:
     - Swimming
-    - Distributed Systems
-    - Data Streaming Platforms
-    - Large-Scale Data Processing Platforms
-
+    - Surfing
+    
 affiliations:
     - affiliation:
         title: "Graduate Student"
