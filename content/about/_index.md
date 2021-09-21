@@ -30,7 +30,7 @@ affiliations:
         name: "University of Southern California"
         email: "liutianw@usc.edu"
 
-Education:
+academia:
     - course:
         degree: "M.Sc."
         institution:  "University of Southern California"
